@@ -3,4 +3,5 @@
 out
 venv
 .DS_Store
-test_algo.py
+*/*.in
+*/*.out
