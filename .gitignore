@@ -2,3 +2,6 @@
 *.iml
 out
 venv
+.DS_Store
+*/*.in
+*/*.out
